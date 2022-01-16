@@ -222,7 +222,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
--- include your output screenshots ---
+![web mathcal output](https://user-images.githubusercontent.com/94219798/149652406-4a6b4b38-1f49-4f64-a521-7e467bc480a8.JPG)
+
 
 ## Result:
 
